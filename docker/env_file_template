@@ -30,7 +30,7 @@ AWS_REGION=eu-central-1
 ## to use for sending mail with SES
 AWS_SES=False
 
-ELASTIC_ENDPOINT=
+ELASTIC_ENDPOINT=http://elasticsearch:9200
 
 SLACK_TOKEN=
 DEFAULT_SLACK_CHANNEL=
